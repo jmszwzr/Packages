@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"GBK Support",
+		"HTML-CSS-JS Prettify",
+		"LaTeX Word Count",
+		"Package Control",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Terminal",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}
