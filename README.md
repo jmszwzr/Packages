@@ -1,7 +1,7 @@
-#Sublime Text3 Packages的优质插件
+# Sublime Text3 Packages的优质插件
 
 
-##Sublime Text 3中关闭记住上次打开的文件
+## Sublime Text 3中关闭记住上次打开的文件
 
 打开Sublime的配置文件，针对这个功能定位到了两个参数：
 
